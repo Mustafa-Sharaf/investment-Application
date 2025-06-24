@@ -32,5 +32,24 @@
 5-لتأمين البيانات وربط العمليات بالحسابات الصحيحة:Cloud Firestore Rules
 
 ## 🖼️واجهات التطبيق:
-![صورة من اللعبة](assets/images/logo_img.png)
+<p align="center">
+   <img src="ImageForGitHub/Image12.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image13.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image14.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image15.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image16.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image6.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image7.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image2.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image3.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image4.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image5.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image8.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image9.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image10.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image11.jpg" width="250" style="margin: 5px;" />
+  <img src="ImageForGitHub/Image1.jpg" width="250" style="margin: 5px;" />
+</p>
+
+
 
