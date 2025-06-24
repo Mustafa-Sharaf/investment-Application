@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691442032045",
+    "project_id": "investmentapp-dba3e",
+    "storage_bucket": "investmentapp-dba3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691442032045:android:81f504ab5b4b5f38665524",
+        "android_client_info": {
+          "package_name": "com.example.investment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tTlHo9to1ZatNCQsMeyD_P9iwoWw1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
